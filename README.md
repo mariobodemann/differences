@@ -14,3 +14,9 @@ is called, and therefore in the constructor are only staticly accessable methods
 available. 
 
 In java at construction time the full hirearchy of overwritten methods is available.
+
+
+JavaFloatingCompares
+====================
+
+Show how comparing in float is a bad idea. 
